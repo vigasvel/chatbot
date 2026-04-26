@@ -69,13 +69,13 @@ chatbot_final/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](screenshots/home.png)
+![Home](static/screenshots/home.png)
 
 ### 💬 Chatbot Interface
-![Chatbot](screenshots/chatbot.png)
+![Chatbot](static/screenshots/chatbot.png)
 
 ### 🎓 Department Selection
-![Flow](screenshots/flow.png)
+![Flow](static/screenshots/flow.png)
 
 ## Usage
 
