@@ -65,6 +65,18 @@ chatbot_final/
    Open your browser and navigate to:
    [http://localhost:5002](http://localhost:5002)
 
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 💬 Chatbot Interface
+![Chatbot](screenshots/chatbot.png)
+
+### 🎓 Department Selection
+![Flow](screenshots/flow.png)
+
 ## Usage
 
 1. Open the website and explore the college information.
